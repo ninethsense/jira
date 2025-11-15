@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timeline Chart</title>
+    <!-- Include the Google Charts library -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+    <input type="file" id="fileInput" accept=".json">
+    <div id="timelineChart" style="width: 100%; height: 400px;"></div>
+    <script type="text/javascript">
+        // Load the Google Charts library
+        google.charts.load('current', {'packages':['timeline']});
+
+        // Function to handle file input change
+        document.getElementById('fileInput').addEventListener('change', handleFileSelect, false);
+
+        function handleFileSelect(event) {
+            var file = event.target.files[0];
+
+            if (file) {
+                var reader = new FileReader();
+
+                reader.onload = function(e) {
+                    var content = e.target.result;
+
+                    try {
+                        var jsonData = JSON.parse(content);
+                        drawTimelineChart(jsonData);
+                    } catch (error) {
+                        console.error('Error parsing JSON:', error);
+                    }
+                };
+
+                reader.readAsText(file);
+            }
+        }
+
+        function drawTimelineChart(jsonData) {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Issue');
+            data.addColumn('date', 'Start');
+            data.addColumn('date', 'End');
+
+            // Process jsonData and add rows to data table
+            // Similar to the previous responses
+
+            var chart = new google.visualization.Timeline(document.getElementById('timelineChart'));
+            chart.draw(data, {
+                timeline: { singleColor: '#008080' }
+            });
+        }
+
+        // Set callback to initialize the chart after Google Charts library is loaded
+        google.charts.setOnLoadCallback(function() {
+            // You can initialize the chart here or wait for file input change
+        });
+    </script>
+</body>
+</html>

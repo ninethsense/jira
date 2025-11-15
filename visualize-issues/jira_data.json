@@ -1,0 +1,1066 @@
+{
+    "self": "https://abcd-techedp.atlassian.net/rest/api/3/issue/ZABH-81/changelog?maxResults=100&startAt=0",
+    "maxResults": 100,
+    "startAt": 0,
+    "total": 36,
+    "isLast": true,
+    "values": [
+        {
+            "id": "19248",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "accountId": "712020:ac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png"
+                },
+                "displayName": "Leena Alkhalili",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T13:40:08.587+0400",
+            "items": [
+                {
+                    "field": "IssueParentAssociation",
+                    "fieldtype": "jira",
+                    "from": null,
+                    "fromString": null,
+                    "to": "11245",
+                    "toString": "ZABH-20"
+                }
+            ]
+        },
+        {
+            "id": "19251",
+            "created": "2023-08-10T13:40:08.923+0400",
+            "items": [
+                {
+                    "field": "Rank",
+                    "fieldtype": "custom",
+                    "fieldId": "customfield_10019",
+                    "from": "",
+                    "fromString": "",
+                    "to": "",
+                    "toString": "Ranked lower"
+                }
+            ]
+        },
+        {
+            "id": "19323",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "accountId": "712020:ac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png"
+                },
+                "displayName": "Leena Alkhalili",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T13:51:30.142+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": null,
+                    "fromString": null,
+                    "to": "6323985cf8c7bc1f35848485",
+                    "toString": "Tisha.Mohammed",
+                    "tmpFromAccountId": null,
+                    "tmpToAccountId": "6323985cf8c7bc1f35848485"
+                }
+            ]
+        },
+        {
+            "id": "19324",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "accountId": "712020:ac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png"
+                },
+                "displayName": "Leena Alkhalili",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T13:51:32.094+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "10009",
+                    "fromString": "Backlog",
+                    "to": "10077",
+                    "toString": "Next"
+                }
+            ]
+        },
+        {
+            "id": "19325",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "accountId": "712020:ac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png"
+                },
+                "displayName": "Leena Alkhalili",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T13:52:34.560+0400",
+            "items": [
+                {
+                    "field": "description",
+                    "fieldtype": "jira",
+                    "fieldId": "description",
+                    "from": null,
+                    "fromString": "Wrong 1st response and average response time",
+                    "to": null,
+                    "toString": "Wrong 1st response and average response time"
+                }
+            ]
+        },
+        {
+            "id": "19369",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "accountId": "712020:ac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png"
+                },
+                "displayName": "Leena Alkhalili",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T16:13:58.867+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "6323985cf8c7bc1f35848485",
+                    "fromString": "Tisha.Mohammed",
+                    "to": null,
+                    "toString": null,
+                    "tmpFromAccountId": "6323985cf8c7bc1f35848485",
+                    "tmpToAccountId": null
+                }
+            ]
+        },
+        {
+            "id": "19370",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "accountId": "712020:ac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png"
+                },
+                "displayName": "Leena Alkhalili",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T16:14:00.734+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "10077",
+                    "fromString": "Next",
+                    "to": "10009",
+                    "toString": "Backlog"
+                }
+            ]
+        },
+        {
+            "id": "19402",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "accountId": "712020:ac4a9cc8-313c-4b01-ad2a-1b418ed30a7e",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/4476a4a474eab8b8a248f79640033274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLA-4.png"
+                },
+                "displayName": "Leena Alkhalili",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T16:37:03.567+0400",
+            "items": [
+                {
+                    "field": "labels",
+                    "fieldtype": "jira",
+                    "fieldId": "labels",
+                    "from": null,
+                    "fromString": "",
+                    "to": null,
+                    "toString": "UAT_Cust"
+                }
+            ]
+        },
+        {
+            "id": "19566",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-10T17:02:39.225+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": null,
+                    "fromString": null,
+                    "to": "6255645dfdb60b006927d11a",
+                    "toString": "Mohamed Mustafa Zaghloul",
+                    "tmpFromAccountId": null,
+                    "tmpToAccountId": "6255645dfdb60b006927d11a"
+                }
+            ]
+        },
+        {
+            "id": "19699",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A18e65a47-664c-43f1-98e1-32404dd069df",
+                "accountId": "712020:18e65a47-664c-43f1-98e1-32404dd069df",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png"
+                },
+                "displayName": "Jordan.Kight",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-13T08:12:58.120+0400",
+            "items": [
+                {
+                    "field": "summary",
+                    "fieldtype": "jira",
+                    "fieldId": "summary",
+                    "from": null,
+                    "fromString": "264 Chat: First response time/ Response Rate",
+                    "to": null,
+                    "toString": "264 Chat: Wrong 1st response and average response time"
+                }
+            ]
+        },
+        {
+            "id": "20081",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A2b501ff3-51b9-4d51-a145-80340b2a92a5",
+                "accountId": "712020:2b501ff3-51b9-4d51-a145-80340b2a92a5",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png",
+                    "24x24": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png",
+                    "16x16": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png",
+                    "32x32": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png"
+                },
+                "displayName": "Andrea.Bigolin",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-15T14:28:53.395+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "10009",
+                    "fromString": "Backlog",
+                    "to": "3",
+                    "toString": "In Progress"
+                }
+            ]
+        },
+        {
+            "id": "20085",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A2b501ff3-51b9-4d51-a145-80340b2a92a5",
+                "accountId": "712020:2b501ff3-51b9-4d51-a145-80340b2a92a5",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png",
+                    "24x24": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png",
+                    "16x16": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png",
+                    "32x32": "https://secure.gravatar.com/avatar/a26907abc629d371c703240b7e204c73?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-6.png"
+                },
+                "displayName": "Andrea.Bigolin",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-15T14:33:29.861+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "6255645dfdb60b006927d11a",
+                    "fromString": "Mohamed Mustafa Zaghloul",
+                    "to": "557058:eee7230e-076e-4959-871b-a9cda5dd0e91",
+                    "toString": "Fatima Al Aradi",
+                    "tmpFromAccountId": "6255645dfdb60b006927d11a",
+                    "tmpToAccountId": "557058:eee7230e-076e-4959-871b-a9cda5dd0e91"
+                }
+            ]
+        },
+        {
+            "id": "20157",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A18e65a47-664c-43f1-98e1-32404dd069df",
+                "accountId": "712020:18e65a47-664c-43f1-98e1-32404dd069df",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png"
+                },
+                "displayName": "Jordan.Kight",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-15T17:26:07.982+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "3",
+                    "fromString": "In Progress",
+                    "to": "10084",
+                    "toString": "Ready for client validation"
+                }
+            ]
+        },
+        {
+            "id": "20354",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A18e65a47-664c-43f1-98e1-32404dd069df",
+                "accountId": "712020:18e65a47-664c-43f1-98e1-32404dd069df",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/3a594929821a73ece6c4360852f957e3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJ-4.png"
+                },
+                "displayName": "Jordan.Kight",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-16T10:55:43.332+0400",
+            "items": [
+                {
+                    "field": "duedate",
+                    "fieldtype": "jira",
+                    "fieldId": "duedate",
+                    "from": null,
+                    "fromString": null,
+                    "to": "2023-08-17",
+                    "toString": "2023-08-17 00:00:00.0"
+                }
+            ]
+        },
+        {
+            "id": "20398",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-16T12:49:35.006+0400",
+            "items": [
+                {
+                    "field": "Link",
+                    "fieldtype": "jira",
+                    "from": null,
+                    "fromString": null,
+                    "to": "ZABH-82",
+                    "toString": "This issue is blocked by ZABH-82"
+                }
+            ]
+        },
+        {
+            "id": "20399",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-16T12:49:49.626+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "10084",
+                    "fromString": "Ready for client validation",
+                    "to": "3",
+                    "toString": "In Progress"
+                }
+            ]
+        },
+        {
+            "id": "20658",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=557058%3Aeee7230e-076e-4959-871b-a9cda5dd0e91",
+                "accountId": "557058:eee7230e-076e-4959-871b-a9cda5dd0e91",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/7a263aab7bf3c1a3391836f5fca92403?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFA-1.png",
+                    "24x24": "https://secure.gravatar.com/avatar/7a263aab7bf3c1a3391836f5fca92403?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFA-1.png",
+                    "16x16": "https://secure.gravatar.com/avatar/7a263aab7bf3c1a3391836f5fca92403?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFA-1.png",
+                    "32x32": "https://secure.gravatar.com/avatar/7a263aab7bf3c1a3391836f5fca92403?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFA-1.png"
+                },
+                "displayName": "Fatima Al Aradi",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-16T16:42:14.447+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "557058:eee7230e-076e-4959-871b-a9cda5dd0e91",
+                    "fromString": "Fatima Al Aradi",
+                    "to": "632396fb29083bbe8cc48701",
+                    "toString": "Abdelhamid",
+                    "tmpFromAccountId": "557058:eee7230e-076e-4959-871b-a9cda5dd0e91",
+                    "tmpToAccountId": "632396fb29083bbe8cc48701"
+                }
+            ]
+        },
+        {
+            "id": "20701",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-16T18:59:10.196+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "632396fb29083bbe8cc48701",
+                    "fromString": "Abdelhamid",
+                    "to": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "toString": "Amal Tom Sunny",
+                    "tmpFromAccountId": "632396fb29083bbe8cc48701",
+                    "tmpToAccountId": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4"
+                }
+            ]
+        },
+        {
+            "id": "20704",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-16T19:20:24.214+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "fromString": "Amal Tom Sunny",
+                    "to": "632396fb29083bbe8cc48701",
+                    "toString": "Abdelhamid",
+                    "tmpFromAccountId": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "tmpToAccountId": "632396fb29083bbe8cc48701"
+                }
+            ]
+        },
+        {
+            "id": "20705",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-16T19:20:27.765+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "3",
+                    "fromString": "In Progress",
+                    "to": "10070",
+                    "toString": "Ready for validation"
+                }
+            ]
+        },
+        {
+            "id": "20783",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-17T13:27:38.167+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "632396fb29083bbe8cc48701",
+                    "fromString": "Abdelhamid",
+                    "to": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "toString": "Amal Tom Sunny",
+                    "tmpFromAccountId": "632396fb29083bbe8cc48701",
+                    "tmpToAccountId": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4"
+                }
+            ]
+        },
+        {
+            "id": "20791",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A01861752-70dc-4342-9d90-2330353028c1",
+                "accountId": "712020:01861752-70dc-4342-9d90-2330353028c1",
+                "emailAddress": "praveen.nair@abcd-tech.com",
+                "avatarUrls": {
+                    "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/48",
+                    "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/24",
+                    "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/16",
+                    "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/32"
+                },
+                "displayName": "Praveen Nair",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-17T14:14:43.487+0400",
+            "items": [
+                {
+                    "field": "duedate",
+                    "fieldtype": "jira",
+                    "fieldId": "duedate",
+                    "from": "2023-08-17",
+                    "fromString": "2023-08-17 00:00:00.0",
+                    "to": "2023-08-18",
+                    "toString": "2023-08-18 00:00:00.0"
+                }
+            ]
+        },
+        {
+            "id": "20793",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A01861752-70dc-4342-9d90-2330353028c1",
+                "accountId": "712020:01861752-70dc-4342-9d90-2330353028c1",
+                "emailAddress": "praveen.nair@abcd-tech.com",
+                "avatarUrls": {
+                    "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/48",
+                    "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/24",
+                    "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/16",
+                    "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:01861752-70dc-4342-9d90-2330353028c1/c98c384e-df19-420c-9b9c-98cd53d3fcc9/32"
+                },
+                "displayName": "Praveen Nair",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-17T14:15:51.455+0400",
+            "items": [
+                {
+                    "field": "Link",
+                    "fieldtype": "jira",
+                    "from": null,
+                    "fromString": null,
+                    "to": "ZABH-30",
+                    "toString": "This issue is blocked by ZABH-30"
+                }
+            ]
+        },
+        {
+            "id": "20857",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-17T17:52:18.803+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "10070",
+                    "fromString": "Ready for validation",
+                    "to": "10072",
+                    "toString": "Rework"
+                }
+            ]
+        },
+        {
+            "id": "20943",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-20T11:10:32.471+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "fromString": "Amal Tom Sunny",
+                    "to": "712020:5ca0d9cb-3ddc-4ee4-b791-248dcf9af831",
+                    "toString": "Prateek",
+                    "tmpFromAccountId": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "tmpToAccountId": "712020:5ca0d9cb-3ddc-4ee4-b791-248dcf9af831"
+                }
+            ]
+        },
+        {
+            "id": "20969",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-20T11:31:49.693+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "712020:5ca0d9cb-3ddc-4ee4-b791-248dcf9af831",
+                    "fromString": "Prateek",
+                    "to": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                    "toString": "Narasimha",
+                    "tmpFromAccountId": "712020:5ca0d9cb-3ddc-4ee4-b791-248dcf9af831",
+                    "tmpToAccountId": "712020:eb657206-dec2-4d87-988c-c93198b98f08"
+                }
+            ]
+        },
+        {
+            "id": "21181",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A5ca0d9cb-3ddc-4ee4-b791-248dcf9af831",
+                "accountId": "712020:5ca0d9cb-3ddc-4ee4-b791-248dcf9af831",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png",
+                    "24x24": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png",
+                    "16x16": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png",
+                    "32x32": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png"
+                },
+                "displayName": "Prateek",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-20T16:08:29.982+0400",
+            "items": [
+                {
+                    "field": "duedate",
+                    "fieldtype": "jira",
+                    "fieldId": "duedate",
+                    "from": "2023-08-18",
+                    "fromString": "2023-08-18 00:00:00.0",
+                    "to": "2023-08-21",
+                    "toString": "2023-08-21 00:00:00.0"
+                }
+            ]
+        },
+        {
+            "id": "21268",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=6255645dfdb60b006927d11a",
+                "accountId": "6255645dfdb60b006927d11a",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png",
+                    "24x24": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png",
+                    "16x16": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png",
+                    "32x32": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png"
+                },
+                "displayName": "Mohamed Mustafa Zaghloul",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-20T16:49:42.005+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                    "fromString": "Narasimha",
+                    "to": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "toString": "Amal Tom Sunny",
+                    "tmpFromAccountId": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                    "tmpToAccountId": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4"
+                }
+            ]
+        },
+        {
+            "id": "21275",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=6255645dfdb60b006927d11a",
+                "accountId": "6255645dfdb60b006927d11a",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png",
+                    "24x24": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png",
+                    "16x16": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png",
+                    "32x32": "https://secure.gravatar.com/avatar/fd569ad8a18ec2750e8dd86b9d819f02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMZ-5.png"
+                },
+                "displayName": "Mohamed Mustafa Zaghloul",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-20T16:51:00.757+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "10072",
+                    "fromString": "Rework",
+                    "to": "3",
+                    "toString": "In Progress"
+                }
+            ]
+        },
+        {
+            "id": "21960",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=63f4b3a4e2c4c692c977a760",
+                "accountId": "63f4b3a4e2c4c692c977a760",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/df90fd754e739080979e6c4c221d9411?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-6.png",
+                    "24x24": "https://secure.gravatar.com/avatar/df90fd754e739080979e6c4c221d9411?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-6.png",
+                    "16x16": "https://secure.gravatar.com/avatar/df90fd754e739080979e6c4c221d9411?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-6.png",
+                    "32x32": "https://secure.gravatar.com/avatar/df90fd754e739080979e6c4c221d9411?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-6.png"
+                },
+                "displayName": "Parameshwaran.Iyer",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-22T14:21:56.245+0400",
+            "items": [
+                {
+                    "field": "duedate",
+                    "fieldtype": "jira",
+                    "fieldId": "duedate",
+                    "from": "2023-08-21",
+                    "fromString": "2023-08-21 00:00:00.0",
+                    "to": "2023-08-23",
+                    "toString": "2023-08-23 00:00:00.0"
+                }
+            ]
+        },
+        {
+            "id": "22418",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-24T11:19:06.224+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "fromString": "Amal Tom Sunny",
+                    "to": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                    "toString": "Narasimha",
+                    "tmpFromAccountId": "712020:53f5ac02-51c3-47c3-8f55-c45d4041cee4",
+                    "tmpToAccountId": "712020:eb657206-dec2-4d87-988c-c93198b98f08"
+                }
+            ]
+        },
+        {
+            "id": "22458",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3A5ca0d9cb-3ddc-4ee4-b791-248dcf9af831",
+                "accountId": "712020:5ca0d9cb-3ddc-4ee4-b791-248dcf9af831",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png",
+                    "24x24": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png",
+                    "16x16": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png",
+                    "32x32": "https://secure.gravatar.com/avatar/d8666f3b6b0e5c315621ad607ecea6a7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-5.png"
+                },
+                "displayName": "Prateek",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-24T13:49:19.361+0400",
+            "items": [
+                {
+                    "field": "duedate",
+                    "fieldtype": "jira",
+                    "fieldId": "duedate",
+                    "from": "2023-08-23",
+                    "fromString": "2023-08-23 00:00:00.0",
+                    "to": "2023-08-24",
+                    "toString": "2023-08-24 00:00:00.0"
+                }
+            ]
+        },
+        {
+            "id": "22486",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aeb657206-dec2-4d87-988c-c93198b98f08",
+                "accountId": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png",
+                    "24x24": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png",
+                    "16x16": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png",
+                    "32x32": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png"
+                },
+                "displayName": "Narasimha",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-24T16:02:24.468+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "3",
+                    "fromString": "In Progress",
+                    "to": "10070",
+                    "toString": "Ready for validation"
+                }
+            ]
+        },
+        {
+            "id": "22487",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=712020%3Aeb657206-dec2-4d87-988c-c93198b98f08",
+                "accountId": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png",
+                    "24x24": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png",
+                    "16x16": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png",
+                    "32x32": "https://secure.gravatar.com/avatar/fa62bb4c02cb635b13350e71c454bbea?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FN-6.png"
+                },
+                "displayName": "Narasimha",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-24T16:02:30.894+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                    "fromString": "Narasimha",
+                    "to": "632396fb29083bbe8cc48701",
+                    "toString": "Abdelhamid",
+                    "tmpFromAccountId": "712020:eb657206-dec2-4d87-988c-c93198b98f08",
+                    "tmpToAccountId": "632396fb29083bbe8cc48701"
+                }
+            ]
+        },
+        {
+            "id": "22511",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-24T17:49:19.948+0400",
+            "items": [
+                {
+                    "field": "status",
+                    "fieldtype": "jira",
+                    "fieldId": "status",
+                    "from": "10070",
+                    "fromString": "Ready for validation",
+                    "to": "10084",
+                    "toString": "Ready for client validation"
+                }
+            ]
+        },
+        {
+            "id": "22512",
+            "author": {
+                "self": "https://abcd-techedp.atlassian.net/rest/api/3/user?accountId=632396fb29083bbe8cc48701",
+                "accountId": "632396fb29083bbe8cc48701",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "24x24": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "16x16": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png",
+                    "32x32": "https://secure.gravatar.com/avatar/0fb6324184e39f767d4dad28d6d43817?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-4.png"
+                },
+                "displayName": "Abdelhamid",
+                "active": true,
+                "timeZone": "Etc/GMT-4",
+                "accountType": "atlassian"
+            },
+            "created": "2023-08-24T17:51:23.868+0400",
+            "items": [
+                {
+                    "field": "assignee",
+                    "fieldtype": "jira",
+                    "fieldId": "assignee",
+                    "from": "632396fb29083bbe8cc48701",
+                    "fromString": "Abdelhamid",
+                    "to": "557058:eee7230e-076e-4959-871b-a9cda5dd0e91",
+                    "toString": "Fatima Al Aradi",
+                    "tmpFromAccountId": "632396fb29083bbe8cc48701",
+                    "tmpToAccountId": "557058:eee7230e-076e-4959-871b-a9cda5dd0e91"
+                }
+            ]
+        }
+    ]
+}
